@@ -33,4 +33,4 @@ To run the project locally, follow these steps:
 4. Click **Check** to validate the password.
 
 ## Demo
-You can see the live demo [here](https://your-live-demo-link).
+You can see the live demo [https://sathishk-dev.github.io/password-validation/](https://sathishk-dev.github.io/password-validation/)
