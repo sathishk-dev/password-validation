@@ -21,11 +21,10 @@ To run the project locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/password-validation.git
-```bash
-cd password-validation
-
-```
-2. Open the index.html file in your browser.
+2. Navigate to the project directory:
+   ```bash
+   cd password-validation
+3. Open the index.html file in your browser.
 
 ## Usage
 1. Open the `index.html` file in your browser.
